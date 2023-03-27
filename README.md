@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://manoj-71.github.io/](https://manoj-71.github.io/)
+- 👨‍💻 All of my projects are available at [https://manoj890880.github.io/](https://manoj890880.github.io/)
 
 - 💬 Ask me about **HTML,CSS, JavaScript, Java**
 
