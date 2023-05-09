@@ -5,10 +5,11 @@
 <h3 align="center">With a passion for Java development</h3>
 
 <p>Proficient in Java SE and familiar with JavaEE technologies. Keen on learning new technologies and programming languages, and eager to apply these skills in a professional setting. Skilled in problem-solving and able to work well in a team environment. Passionate about technology and eager to make a positive impact through software development.</p>
+<br/>
 
-<img alt="coding" width="100%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vkgt7h9zc3dlpv6pxy6qx062eti6jpiiexs4nlij&rid=giphy.gif&ct=g"> 
+<img align="right" alt="coding" width="45%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vkgt7h9zc3dlpv6pxy6qx062eti6jpiiexs4nlij&rid=giphy.gif&ct=g">
 
-<br><br/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoj-71&label=Profile%20views&color=0e75b6&style=flat" alt="manoj-71" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -38,4 +39,4 @@
 [![](https://raw.githubusercontent.com/Manoj890880/Git_Stats/master/profile-summary-card-output/blueberry/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Manoj890880/Git_Stats/master/profile-summary-card-output/blueberry/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manoj-71&" alt="manoj-71" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manoj-71&" alt="manoj-71" /></p> -->
