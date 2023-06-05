@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **manojsahoo890880@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dewyKPPYXqisUKSGJseJ7qWAXR2n3Jew/view?usp=sharing](https://drive.google.com/file/d/1dewyKPPYXqisUKSGJseJ7qWAXR2n3Jew/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dewyKPPYXqisUKSGJseJ7qWAXR2n3Jew/view?usp=sharing](https://drive.google.com/file/d/1kJY2hidH9QPFE89VoQgw_MsIgF0QotMq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
