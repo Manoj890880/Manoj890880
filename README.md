@@ -1,7 +1,11 @@
 <img height="200px" width="100%" src="https://github.com/Manoj890880/Manoj890880/assets/112793753/9b81cdd3-49ae-47d7-af4e-3c4af109d6fb" alt="">
-
-<h1 align="center">Hi 👋, I'm Manoj</h1>
-<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=A+Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+and+a+Programming+Enthusiast+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+from+India"></h3>
+<h1 align="center">Hello, I'm Manoj 👋 </h1>
+<br/>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Java%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 
 
