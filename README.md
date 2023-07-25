@@ -1,42 +1,48 @@
-<img alt="coding" width="100%" src="https://user-images.githubusercontent.com/112793753/232783493-9cd41afb-d7ef-40f2-b654-094492c5121d.png"> 
-
+<img height="200px" width="100%" src="https://github.com/Manoj890880/Manoj890880/assets/112793753/9b81cdd3-49ae-47d7-af4e-3c4af109d6fb" alt="">
 
 <h1 align="center">Hi 👋, I'm Manoj</h1>
-<h3 align="center">With a passion for Java development</h3>
-
-<p>Proficient in Java SE and familiar with JavaEE technologies. Keen on learning new technologies and programming languages, and eager to apply these skills in a professional setting. Skilled in problem-solving and able to work well in a team environment. Passionate about technology and eager to make a positive impact through software development.</p>
-<br/>
-
-<img align="right" alt="coding" width="45%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vkgt7h9zc3dlpv6pxy6qx062eti6jpiiexs4nlij&rid=giphy.gif&ct=g">
+<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=A+Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+and+a+Programming+Enthusiast+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+from+India"></h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manoj-71&label=Profile%20views&color=0e75b6&style=flat" alt="manoj-71" /> </p>
 
-<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
+# 💫 About Me:
+🔭 I’m currently working on: Developing scalable and efficient Java backend solutions to power web applications and services.<br><br>👯 I’m looking to collaborate on: Exciting projects that involve building robust backend systems, contributing to open-source Java projects, or working on innovative web applications.<br><br>🤝 I’m looking for help with: Staying updated on the latest trends and best practices in Java backend development, particularly related to performance optimization and microservices architecture.<br><br>🌱 I’m currently learning: New frameworks and tools in the Java ecosystem to enhance my skills and productivity as a backend developer. Additionally, I'm exploring cloud technologies and distributed systems for building scalable applications.<br><br>💬 Ask me about: Java backend development, RESTful APIs, database design and optimization, multithreading and concurrency in Java, troubleshooting and debugging backend issues, and integrating third-party services.<br><br>⚡ Fun fact :Did you know that the name "Java" was inspired by the Java coffee, which was consumed in large quantities by the language's creators during its development? The original name for the language was supposed to be "Oak," but due to trademark issues, it was changed to "Java." Additionally, the first public release of Java, known as JDK 1.0, was launched on January 23, 1996.
 
-- 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://manoj890880.github.io/](https://manoj890880.github.io/)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj71)
 
-- 💬 Ask me about **HTML,CSS, JavaScript, Java**
 
-- 📫 How to reach me **manojsahoo890880@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dewyKPPYXqisUKSGJseJ7qWAXR2n3Jew/view?usp=sharing](https://drive.google.com/file/d/1kJY2hidH9QPFE89VoQgw_MsIgF0QotMq/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
-<a href="https://linkedin.com/in/manoj-sahoo-677572246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manoj-sahoo-677572246" height="30" width="40" /></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 
 
-[![](https://raw.githubusercontent.com/Manoj890880/Git_Stats/master/profile-summary-card-output/blueberry/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Manoj890880/Git_Stats/master/profile-summary-card-output/blueberry/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Manoj890880/Git_Stats/master/profile-summary-card-output/blueberry/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Manoj890880/Git_Stats/master/profile-summary-card-output/blueberry/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Manoj890880/Git_Stats/master/profile-summary-card-output/blueberry/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manoj-71&" alt="manoj-71" /></p> -->
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=manoj890880&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=manoj890880&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manoj890880&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![Snake animation](https://github.com/Manoj890880/Manoj890880/blob/output/github-contribution-grid-snake.svg)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=manoj890880&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=manoj890880&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=manoj890880&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
